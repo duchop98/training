@@ -16,4 +16,7 @@ Các bạn đọc tài liệu Ruby theo link: https://raw.githubusercontent.com/
 
 Các bạn tham khảo thêm để biết được những điều cần tập trung nghiên cứu trong từng phần - https://drive.google.com/drive/folders/17UVueiVlTFRBG_9u2PMx8ZlSGtqxlTg2?usp=sharing
 
+---
+
 ### Happy coding!!!
+
